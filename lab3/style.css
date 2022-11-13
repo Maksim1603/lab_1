@@ -1,0 +1,43 @@
+
+.navbar-brand {
+    color: aqua;
+}
+
+.Color {
+    margin-right: 8px;
+}
+.carousel {
+    margin-left: 120px;
+}
+.search {
+    font-size: 20px;
+}
+.title_1 {
+    margin-left: 340px;
+}
+.Info {
+   color:white;
+    font-size: 40px;
+    font-weight: 500;
+}
+.card {
+    margin-top: 100px;
+}
+.card-body {
+    background-color: black;
+    font-size:25px;
+}
+.card-text {
+    color: white;
+    transition: color 0.3s linear;
+}
+.card-text:hover {
+    color:blue
+}
+.team {
+    color: white;
+    font-size: 40px;
+    margin-top: 80px;
+    font-weight: 500;
+}
+
